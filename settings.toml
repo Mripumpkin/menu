@@ -1,0 +1,9 @@
+run_level = "debug"
+
+[redis]
+conn_timeout = 500
+host = "127.0.0.1"
+password = "fyh950720"
+port = 6379
+username = ""
+db_index = 10
